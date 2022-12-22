@@ -1,3 +1,2 @@
 puts "K64の皆さん、こんにちは!"
-puts "hello world"
-puts"hello world2"
+puts"hello world hello world"
