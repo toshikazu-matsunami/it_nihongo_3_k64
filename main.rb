@@ -1,1 +1,1 @@
-git init 
+puts 'hello'
