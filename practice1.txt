@@ -1,1 +1,0 @@
-puts "QuachVanHoa_木2_20194564"
